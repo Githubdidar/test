@@ -1,0 +1,67 @@
+Analysis for URL: https://wellnessdove.com/guide-towards-plastic-free-cooking-appliances/
+Text Preview: As an Amazon Associate, I earn from qualifying purchases. We’ve all heard that plastic is probably not the healthiest material to process and store our food in. The thing is, though, that most kitchen appliances today are almost exclusively made from plastic. And that begs the question: should you bother...
+
+LSI Keywords:
+also, ages, cast, briefly, acid, based, below, avoided, budget, about
+
+High Frequency Keywords:
+plastic (32), food (21), made (11), glass (10), toxins (9), juicer (8), use (7), hot (7), one (7), many (7)
+
+High Frequency Two-Word Phrases:
+hot food (5), plastic probably (4), made plastic (4), leach toxins (3), use hot (3), cheap plastic (3), plastic parts (3), glass blender (3), food processor (3), kitchen appliances (2)
+==================================================
+
+Analysis for URL: https://www.reddit.com/r/PlasticFreeLiving/comments/rtg4ui/non_plastic_blender_and_other_kitchen_items/
+Text Preview: Any ideas for non plastic blenders? (preferably with multiple blades or containers to swap between washes. I do love the ease of my Magic Bullet >_<) I know old fashioned blenders used to be made out of what, like a ceramic or enamel? Any companies keeping that alive? I suppose...
+
+LSI Keywords:
+blades, air, blenders, amazon, alive, between
+
+High Frequency Keywords:
+blenders (2), like (2), suppose (2), ideas (1), non (1), plastic (1), preferably (1), multiple (1), blades (1), containers (1)
+
+High Frequency Two-Word Phrases:
+ideas non (1), non plastic (1), plastic blenders (1), blenders preferably (1), preferably multiple (1), multiple blades (1), blades containers (1), containers swap (1), swap washes (1), washes love (1)
+==================================================
+
+Analysis for URL: https://myplasticfreelife.com/2013/09/why-i-love-my-blender/
+Text Preview: I’m back home from Burning Man and so glad to be able to have my morning green smoothie again. When I wrote that post, I promised a follow up about my blender. Well, here it is. Back in 2011, I wrote about hanging out with my friend Mark and watching...
+
+LSI Keywords:
+cutter, cooker, daily, changed, cardboard, above, decision
+
+High Frequency Keywords:
+blender (51), plastic (44), glass (26), one (24), pitcher (21), jar (21), stainless (19), waring (18), use (18), steel (17)
+
+High Frequency Two-Word Phrases:
+stainless steel (16), glass jar (8), glass pitcher (6), soak nuts (5), avoid plastic (4), years ago (4), thank much (4), nut milks (4), oster blender (4), burning man (3)
+==================================================
+
+Aggregated Analysis:
+LSI Keywords:
+blades, blenders, between, about, ages, briefly, acid, cooker, daily, changed
+
+High Frequency Keywords:
+blender (15-17), plastic (13-15), glass (8-8), one (7-7), pitcher (6-6), jar (6-6), stainless (6-6), waring (5-5), use (5-5), steel (5-5)
+
+High Frequency Two-Word Phrases:
+stainless steel (5), glass jar (3), glass pitcher (2), soak nuts (2), avoid plastic (1), years ago (1), thank much (1), nut milks (1), oster blender (1), burning man (1)
+==================================================
+
+Best Practices for 1400-word Blog Articles:
+Expected H1 count: 1
+Expected H2 count: 2
+Expected H3 count: 5
+Expected H4 count: 11
+Expected Image count: 5
+
+Tips:
+- Use descriptive and engaging title.
+- Include target keyword in the title.
+- Use subheadings to break the content.
+- Include internal and external links.
+- Optimize images with alt text containing target keyword.
+- Use bullet points or numbered lists.
+- Include a call to action.
+- Keep paragraphs short and easy to read.
+- Include social share buttons.
